@@ -1,0 +1,1 @@
+<!--Redirection vers frontend/index.php-->

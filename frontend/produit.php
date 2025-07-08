@@ -1,0 +1,1 @@
+<!--Détail d’un produit (via $_GET['id'])-->

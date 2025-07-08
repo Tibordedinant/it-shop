@@ -1,0 +1,1 @@
+<!--Navbar responsive Bootstrap (même charte partout)

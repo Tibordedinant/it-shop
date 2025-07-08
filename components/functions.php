@@ -1,0 +1,1 @@
+<!--Fonctions PHP utiles (connexion BDD, auth, etc.)-->
